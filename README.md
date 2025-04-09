@@ -1,5 +1,5 @@
 # Data Analyst Training
-This repository is to track my training progression in Data Analytics.
+This repository is to track my Data Analyst training progression.
 
 Links to the courses and exams I've completed are provided below, and you can click on CERT to see the individual Certificates obtained.
 
