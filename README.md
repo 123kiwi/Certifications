@@ -18,3 +18,11 @@ Links to the courses and exams I've completed are provided below, and you can cl
 
 2023
 - [Google Analytics GA4 Certification](https://skillshop.docebosaas.com/learn/courses/12472/google-analytics-certification) (Google) ([CERT](https://skillshop.credential.net/3f5c84b0-b9f6-4966-99e6-e18ab53ffa4c#acc.TXWjZuDS))
+
+</br>
+</br>
+</br>
+
+These are the certificates I am currently working towards as and when I get time:
+- [Certified GCP Associate Cloud Engineer (ACE)](https://cloud.google.com/learn/certification/cloud-engineer) (Google)
+- [Microsoft Certified: DP-600 Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-gb/credentials/certifications/fabric-analytics-engineer-associate/) (Microsoft)
